@@ -1,3 +1,0 @@
-Find pixels values for red green and blue that give the ASCII value of a character, add up the values to a string for output, so 
-pixels go from left to right and top to bottom
-each pixel's 3 colors contain 3 ASCII Values 1 for each color
